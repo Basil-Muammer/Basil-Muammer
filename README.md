@@ -2,7 +2,8 @@
 
 <a href='https://www.linkedin.com/in/basel-muammar/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/baselmuammar'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.behance.net/baselmuammar'><img alt="Behance" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/behance.svg" height='18px'/></a>
+<a href='https://www.behance.net/gallery/220827903/_'><img align='left' alt="![B](https://github.com/user-attachments/assets/8570ea1f-5ee2-4d91-bc09-179880a6dc36) height='50px'/></a>
+<br>
 
 I am a **Full Stack Web Developer** and **Graphic Designer** passionate about crafting elegant digital experiences. Whether it's developing dynamic web applications, creating eye-catching visuals, or bridging the gap between code and design, I bring creativity and precision to every project I tackle. I believe in continuous learning and enjoy exploring new technologies that can make a difference.
 

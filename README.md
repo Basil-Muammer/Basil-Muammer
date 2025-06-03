@@ -52,8 +52,3 @@ I am a **Full Stack Web Developer** and **Graphic Designer** passionate about cr
 <a href="https://github.com/baselmuammar/responsive-dashboard" target="_blank"> <img alt="Responsive Dashboard" src="./projects/responsive-dashboard.svg" height="68" align="left"> </a>
 <a href="https://github.com/baselmuammar/creative-agency" target="_blank"> <img alt="Creative Agency" src="./projects/creative-agency.svg" height="68" align="left"> </a>
 
----
-
-Feel free to adjust the links and icons based on your actual accounts and repositories! وإذا أحببت، يمكنني مساعدتك في تصميم الشعارات أو الصور للمشاريع بأسلوب إبداعي.
-
-هل تحتاج مني تعديلات إضافية أو إضافة قسم معين مثل الشهادات أو الإنجازات؟ ✨

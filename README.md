@@ -49,8 +49,3 @@ I am a **Full Stack Web Developer** and **Graphic Designer** passionate about cr
 
 <br/>
 
-### 🛠️ Featured Projects
-<a href="https://github.com/basilmuammar/portfolio-website" target="_blank"> <img alt="Portfolio Website" src="./projects/portfolio-website.svg" height="68" align="left"> </a>
-<a href="https://github.com/basilmuammar/responsive-dashboard" target="_blank"> <img alt="Responsive Dashboard" src="./projects/responsive-dashboard.svg" height="68" align="left"> </a>
-<a href="https://github.com/basilmuammar/creative-agency" target="_blank"> <img alt="Creative Agency" src="./projects/creative-agency.svg" height="68" align="left"> </a>
-

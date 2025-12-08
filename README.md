@@ -2,7 +2,7 @@
 
 <a href='https://www.linkedin.com/in/basel-muammar/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/baselmuammar'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.behance.net/baselmuammar'><img alt="Behance" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/behance.svg" height='18px'/></a>
+<br/>
 
 I am a **Flutter Developer** and **Back-End Developer** passionate about building scalable mobile apps and robust server-side solutions. I focus on creating clean, maintainable code and seamless user experiences, bridging the gap between front-end design and back-end architecture.  
 
